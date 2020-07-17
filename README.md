@@ -1,5 +1,3 @@
-[![](https://api.codemagic.io/apps/5f11a4d3511dd1001157bcf7/5f11a4d3511dd1001157bcf6/status_badge.svg)]
-
 # Flutter Testing with Codemagic
 
 A new Flutter project.
