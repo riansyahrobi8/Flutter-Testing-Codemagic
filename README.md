@@ -1,4 +1,4 @@
-# belajar_flutter_testing
+# Flutter Testing with Codemagic
 
 A new Flutter project.
 
